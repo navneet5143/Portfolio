@@ -16,7 +16,7 @@ export default function HeroSection() {
         </div>
         <button className="btn btn-primary">
           <a
-            href="Paste here resume link"
+            href="https://shorturl.at/XB6nX"
             className="github-btn btn-h"
           >
             Resume
